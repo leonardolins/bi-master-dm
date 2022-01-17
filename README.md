@@ -1,6 +1,6 @@
-# Trabalho da disciplina de BI
+# Trabalho da disciplina de DM
 ## Descrição
-Reposítório para o trabalho da disciplina de BI da pós BI-MASTER da PUC-RIO.
+Reposítório para o trabalho da disciplina de DM da pós BI-MASTER da PUC-RIO.
 
 ## Equipe do trabalho:<br />
 Ana Rucos (anarucos@gmail.com)<br />
